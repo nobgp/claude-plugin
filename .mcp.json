@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nobgp": {
+      "type": "sse",
+      "url": "https://mcp.nobgp.com/mcp"
+    }
+  }
+}

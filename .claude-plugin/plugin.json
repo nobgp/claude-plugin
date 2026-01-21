@@ -1,0 +1,10 @@
+{
+  "name": "nobgp",
+  "version": "1.0.0",
+  "description": "Manage nobgp networks, nodes, and services",
+  "author": {
+    "name": "nobgp"
+  },
+  "repository": "https://github.com/nobgp/claude-plugin",
+  "keywords": ["networking", "infrastructure", "mcp"]
+}

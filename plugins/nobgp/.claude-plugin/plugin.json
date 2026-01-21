@@ -6,5 +6,11 @@
     "name": "nobgp"
   },
   "repository": "https://github.com/nobgp/claude-plugin",
-  "keywords": ["networking", "infrastructure", "mcp"]
+  "keywords": ["networking", "infrastructure", "mcp"],
+  "mcpServers": {
+    "nobgp": {
+      "type": "sse",
+      "url": "https://mcp.nobgp.com/mcp"
+    }
+  }
 }

@@ -12,7 +12,7 @@
       "name": "nobgp",
       "description": "Manage nobgp networks, nodes, and services with MCP tools and guided deployment workflows",
       "version": "1.0.0",
-      "source": ".",
+      "source": "./plugins/nobgp",
       "category": "infrastructure"
     }
   ]

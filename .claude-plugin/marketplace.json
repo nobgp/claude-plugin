@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "nobgp-marketplace",
+  "version": "1.0.0",
+  "description": "Claude Code plugins for nobgp network infrastructure management",
+  "owner": {
+    "name": "nobgp",
+    "email": "support@nobgp.com"
+  },
+  "plugins": [
+    {
+      "name": "nobgp",
+      "description": "Manage nobgp networks, nodes, and services with MCP tools and guided deployment workflows",
+      "version": "1.0.0",
+      "source": ".",
+      "category": "infrastructure"
+    }
+  ]
+}

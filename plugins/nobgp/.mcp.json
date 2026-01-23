@@ -1,6 +1,6 @@
 {
   "nobgp": {
-    "type": "sse",
+    "type": "http",
     "url": "https://mcp.nobgp.com/mcp"
   }
 }
